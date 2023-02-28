@@ -1,2 +1,2 @@
-# Solan-Basic
+# Solana-Basic
 Basic Solana contract to store information on chain
